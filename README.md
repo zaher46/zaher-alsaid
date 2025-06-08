@@ -1,43 +1,43 @@
-# zaher-alsaid
+<div align="center" width="50">
 
-# 👋 Hi there! I'm Zaher
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-🎓 A passionate **Software Engineering student** with a strong drive to explore real-world applications of computer science. I dedicate **4 hours daily to learning**, constantly growing my skills and working on exciting projects that solve real problems.
+<details>
+<summary><strong>🎧 Busy coding & vibing to:</strong></summary>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
 
-## 🛠️ What I Do
+</details>
 
-- 💡 Currently building an **AI-powered search and Q&A system** based on classical Islamic texts (using NLP & DeepSeek API).
-- 🖥️ Developing a **university information system** inspired by OBS for Syrian universities.
-- 💾 Exploring **DevOps**, working through a structured weekly roadmap.
-- 🔍 Diving deep into **Relational Databases** and **SQL**, mastering both theory and practice.
-- 💻 Writing clean, professional **C++** code and improving my problem-solving skills daily.
-- 📊 Learning how to model software systems with **UML diagrams**, use-case scenarios, and architectural design.
+![Total Hits](https://komarev.com/ghpvc/?username=zaher-user&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzaher-user&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Zaher-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_HANDLE)
 
----
-
-## 🧠 Currently Learning
-
-- ⚙️ **DevOps tools**: Docker, CI/CD, monitoring, and infrastructure as code.
-- 🧠 **AI & NLP fundamentals**: Especially in Arabic context for hadith/scholarly texts.
-- 📚 **Database design** and query optimization.
-- 🌐 **Full-stack Web Development** for bringing my ideas to life.
+</div>
 
 ---
 
-## 🚀 Projects
+![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange)
 
-- 🕌 **Islamic Text Analyzer** (WIP): Parses Al-Maktabah Al-Shamilah to answer user questions using LLMs.
-- 🏦 **Bank Management System in C++**: Includes login/authentication, client management, and transaction modules.
-- 🎓 **University Info System**: Student grades, schedules, and communication portal (inspired by OBS).
-- 👶 **KidCare App**: A full academic software engineering project with use-cases, architecture, and UML diagrams.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
----
+```cpp
+// tools_I_use organized
+class AboutMe {
+  const char* name = "Zaher";
+  const char* role = "Software Engineering Student";
+  const char* focus = "AI, NLP, Islamic Text Analysis";
+  const char* hobbies = "Coding, Linux, GTA V, Learning DevOps";
 
-## 🧰 Tech Stack
-
-```bash
-Languages: C++, SQL, Python, HTML, CSS, JavaScript
-Tools & Frameworks: VS Code, Git, GitHub, Linux, DeepSeek API, UML tools
-Learning: Docker, React, Node.js, DevOps best practices
+  const char* languages[] = { "C++", "Python", "JavaScript", "HTML", "CSS", "SQL" };
+  const char* tools[] = { "Git", "VSCode", "Linux" };
+};
