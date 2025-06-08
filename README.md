@@ -35,8 +35,7 @@
 class AboutMe {
   const char* name = "Zaher";
   const char* role = "Software Engineering Student";
-  const char* focus = "AI, NLP, Islamic Text Analysis";
-  const char* hobbies = "Coding, Linux, GTA V, Learning DevOps";
+  const char* hobbies = "Coding,Ai,Linux,Prompot Engineering , Learning DevOps";
 
   const char* languages[] = { "C++", "Python", "JavaScript", "HTML", "CSS", "SQL" };
   const char* tools[] = { "Git", "VSCode", "Linux" };
